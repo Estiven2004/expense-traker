@@ -110,4 +110,3 @@ expense-tracker/
 
 Este proyecto está bajo la licencia MIT. Libre para usar, modificar y compartir.
 ---
-https://roadmap.sh/projects/expense-tracker
