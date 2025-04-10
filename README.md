@@ -109,6 +109,4 @@ expense-tracker/
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Libre para usar, modificar y compartir.
-```
-
 ---
