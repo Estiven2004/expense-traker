@@ -2,6 +2,8 @@
 
 Una aplicación de línea de comandos para registrar, ver y administrar tus gastos de forma simple y rápida. Desarrollada en Go y pensada para uso personal o educativo.
 
+https://github.com/Estiven2004/expense-traker
+
 ---
 
 ## 🚀 Características
